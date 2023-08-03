@@ -33,6 +33,7 @@ We can analyze EDB files with ESEDatabaseView  https://www.nirsoft.net/utils/ese
 ![image010](https://github.com/yunuscadirci/XboxOneDirectoryTraversal/assets/7267858/a81c06ab-f0dc-46e1-a1f3-20d308487e0f)
 
 Log Files
+
 When we analyzed log files, we saw internal directory structure of Edge for Xbox One 
  ![image012](https://github.com/yunuscadirci/XboxOneDirectoryTraversal/assets/7267858/8086d1e2-b4ff-46fe-9fdc-aa1f49cabf5c)
 
