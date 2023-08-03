@@ -1,7 +1,7 @@
 # XBox One Directory Traversal and Information Exposure
 # Xbox One OS Version 10.0.18363.8119 (19h1_release_xbox_dev_1911.191119-1135) has Directory Traversal and Information Leakage vulnerabilities
 ## Note from 2023
-This vulnerability was found late 2019 while working on some protocol vulnerabilities like CallStranger on my old XBox one. I've sent early report to Microsoft and went on a work trip. When I was back I saw File Explorer application was removed from XBox One https://www.reddit.com/r/xboxone/comments/ebrrf1/working_alternatives_to_xbox_file_explorer/ https://twitter.com/xboxinsider/status/1202357755140546560 and report was not accepted with an attached tag 'non-reproducable' . I stopped working on XBox One after this ridiculous reply by MS Security team.
+This vulnerability was found late 2019 while working on some protocol vulnerabilities like CallStranger on my old XBox one. I've sent early report to Microsoft and went on a work trip. When I came back to research I saw File Explorer application was removed from XBox One https://www.reddit.com/r/xboxone/comments/ebrrf1/working_alternatives_to_xbox_file_explorer/ https://twitter.com/xboxinsider/status/1202357755140546560 and report was not accepted with an attached tag 'non-reproducable' . I stopped working on XBox One after this ridiculous reply by MS Security team.
 
 
 
@@ -33,6 +33,6 @@ We can analyze EDB files with ESEDatabaseView  https://www.nirsoft.net/utils/ese
 ![image010](https://github.com/yunuscadirci/XboxOneDirectoryTraversal/assets/7267858/a81c06ab-f0dc-46e1-a1f3-20d308487e0f)
 
 Log Files
-When we analyzed .log files, we saw internal directory structure of Edge for Xbox One 
+When we analyzed log files, we saw internal directory structure of Edge for Xbox One 
  ![image012](https://github.com/yunuscadirci/XboxOneDirectoryTraversal/assets/7267858/8086d1e2-b4ff-46fe-9fdc-aa1f49cabf5c)
 
